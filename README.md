@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android app development
 - 📚 I’m currently learning to build native android apps with kotlin, jetpack compose ...
 - 🏫 I’m currently stud
-- 📫 How to reach me : https://t.me/JeelJDesai
+- 📫 How to reach me : https://t.me/JeelJDesai , 📧 jeeldesai@duck.com
 
 <!---
 Jeel-Desai/Jeel-Desai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
